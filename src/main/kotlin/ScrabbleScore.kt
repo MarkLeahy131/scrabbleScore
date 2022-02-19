@@ -2,6 +2,7 @@ class ScrabbleScore {
 
     fun scoreWord(word: String): Int{
         //TODO calculate using the scoreLetter method below, the scrabble value of the word passed as a parameter
+        var score = 0 // score is set to 0
         return 0
     }
 
